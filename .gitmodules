@@ -1,0 +1,3 @@
+[submodule "cash-withdrawal-portal"]
+	path = cash-withdrawal-portal
+	url = https://github.com/Nwachukwu-Uzor/cash-withdrawal-portal.git
